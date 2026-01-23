@@ -21,5 +21,5 @@ My research interests include causal inference, gender politics, and political b
 
 ## Contact
 - Email: chen40620@gmail.com  
-- GitHub: https://github.com/yahanchen
+- GitHub: https://ya-hanchen.github.io/
 
