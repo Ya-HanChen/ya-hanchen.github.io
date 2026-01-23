@@ -12,11 +12,17 @@ nav: home
   </div>
 </nav>
 
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/assets/profile.jpg"
+       alt="Ya-Han Chen"
+       style="width: 180px; border-radius: 6px;">
+</div>
 
 
 ## About Me
 I am a graduate student in Political Science.  
 My research interests include causal inference, gender politics, and political behavior. 
+
 
 ## Publications
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.** *Soochow Journal of Political Science, 43*(1), 1-63. 
