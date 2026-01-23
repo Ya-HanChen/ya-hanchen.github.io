@@ -1,4 +1,4 @@
----
+<img width="966" height="565" alt="image" src="https://github.com/user-attachments/assets/5c4b9570-979f-4487-98a2-d80d39e65152" />---
 layout: default
 nav: home
 ---
@@ -13,7 +13,7 @@ nav: home
 </nav>
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/profile.jpg"
+  <img src="/profile.jpg"
        alt="Ya-Han Chen"
        style="width: 180px; border-radius: 6px;">
 </div>
