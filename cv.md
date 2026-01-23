@@ -3,14 +3,15 @@ layout: default
 ---
 
 # Curriculum Vitae
-<nav style="max-width: 900px; margin: 20px auto 10px; padding: 10px 0; border-bottom: 1px solid #e5e5e5; font-size: 16px;">
+<nav style="max-width: 900px; margin: 20px auto 10px; padding: 10px 0; border-bottom: 1px solid #e5e5e5;">
   <div style="text-align: center;">
-    <a href="/" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Home</a>
-    <a href="/cv" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">CV</a>
-    <a href="/research" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Research</a>
-    <a href="/contact" style="margin: 0 14px; text-decoration: underline; font-weight: 600; color: #1a1a1a;">Contact</a>
+    <a href="/" style="margin: 0 14px; text-decoration: {% if page.url == '/' %}underline{% else %}none{% endif %}; color: #1a1a1a;">Home</a>
+    <a href="/cv" style="margin: 0 14px; text-decoration: {% if page.url == '/cv' %}underline{% else %}none{% endif %}; color: #1a1a1a;">CV</a>
+    <a href="/research" style="margin: 0 14px; text-decoration: {% if page.url == '/research' %}underline{% else %}none{% endif %}; color: #1a1a1a;">Research</a>
+    <a href="/contact" style="margin: 0 14px; text-decoration: {% if page.url == '/contact' %}underline{% else %}none{% endif %}; color: #1a1a1a;">Contact</a>
   </div>
 </nav>
+
 
 ## Education
 - M.A. Political Science, Soochow University
