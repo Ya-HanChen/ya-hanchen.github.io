@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contact
 <nav style="max-width: 900px; margin: 20px auto 10px; padding: 10px 0; border-bottom: 1px solid #e5e5e5; font-size: 16px;">
   <div style="text-align: center;">
