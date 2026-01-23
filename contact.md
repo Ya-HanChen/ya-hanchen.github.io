@@ -8,7 +8,6 @@
   </div>
 </nav>
 
----
 
 - Email: chen40620@gmail.com
 - GitHub: https://github.com/yahanchen
