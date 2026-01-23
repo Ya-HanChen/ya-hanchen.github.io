@@ -1,8 +1,13 @@
 # Research
+<nav style="max-width: 900px; margin: 20px auto 10px; padding: 10px 0; border-bottom: 1px solid #e5e5e5; font-size: 16px;">
+  <div style="text-align: center;">
+    <a href="/" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Home</a>
+    <a href="/cv" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">CV</a>
+    <a href="/research" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Research</a>
+    <a href="/contact" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Contact</a>
+  </div>
+</nav>
 
-[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact)
-
----
 
 ## Publications
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.** *Soochow Journal of Political Science, 43*(1), 1-63. 
