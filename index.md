@@ -1,4 +1,3 @@
----
 # Ya-Han Chen
 <nav style="max-width: 900px; margin: 20px auto 10px; padding: 10px 0; border-bottom: 1px solid #e5e5e5; font-size: 16px;">
   <div style="text-align: center;">
@@ -8,9 +7,6 @@
     <a href="/contact" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Contact</a>
   </div>
 </nav>
-
----
-
 
 ## About Me
 I am a graduate student in Political Science.  
