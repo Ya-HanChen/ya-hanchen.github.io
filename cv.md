@@ -7,7 +7,6 @@
     <a href="/contact" style="margin: 0 14px; text-decoration: none; color: #1a1a1a;">Contact</a>
   </div>
 </nav>
----
 
 ## Education
 - M.A. Political Science, Soochow University
