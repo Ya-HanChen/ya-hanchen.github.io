@@ -14,4 +14,4 @@ layout: default
 
 
 - Email: chen40620@gmail.com
-- GitHub: https://github.com/yahanchen
+- GitHub: https://ya-hanchen.github.io/
