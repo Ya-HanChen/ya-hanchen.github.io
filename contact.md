@@ -8,9 +8,6 @@
   </div>
 </nav>
 
-
-[Home](/) | [CV](/cv) | [Research](/research) | [Contact](/contact)
-
 ---
 
 - Email: chen40620@gmail.com
