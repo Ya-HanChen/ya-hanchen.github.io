@@ -36,6 +36,8 @@ nav: cv
 - **Modeling Sequential Electoral Spillovers: Mediated Coattail Effects and Parallel Randomization in Taiwan.** [Under Review]
 (corresponding author; with Po-Chun Wu and Yung-Ming Hsu)
 
+## Op-Eds and Media Contributions
+- Fang-Yu Chen and Ya-Han Chen. **Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.** *9DASHLINE*, July 2024
 
 ## Download
 - [CV (PDF)](cv.pdf)
