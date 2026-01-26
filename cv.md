@@ -37,7 +37,7 @@ nav: cv
 (corresponding author; with Po-Chun Wu and Yung-Ming Hsu)
 
 ## Op-Eds and Media Contributions
-- Fang-Yu Chen and Ya-Han Chen. **Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.** *9DASHLINE*, July 2024
+- Fang-Yu Chen and Ya-Han Chen. **[Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.](https://www.9dashline.com/article/taiwans-pro-china-opposition-in-congress-pass-undemocratic-laws-that-trigger-mass-protest)** *9DASHLINE*, July 2024
 
 ## Download
 - [CV (PDF)](cv.pdf)
