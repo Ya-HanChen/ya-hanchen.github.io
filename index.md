@@ -13,7 +13,7 @@ nav: home
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/profile.jpg"
-       alt="Ya-Han Chen 陳雅菡"
+       alt="Ya-Han Chen"
        style="width: 180px; border-radius: 6px;">
 </div>
 
@@ -24,7 +24,7 @@ My research interests include causal inference, gender politics, and political b
 
 
 ## Publications
-- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.** *Soochow Journal of Political Science, 43*(1), 1-63. 
+- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.(https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Contact
 - Email: chen40620@gmail.com  
