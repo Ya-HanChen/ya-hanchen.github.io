@@ -17,6 +17,7 @@ nav: home
        style="width: 180px; border-radius: 6px;">
 </div>
 
+這是一行中文測試：你好！
 
 ## About Me
 I am a graduate student in Political Science.  
