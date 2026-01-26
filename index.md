@@ -13,7 +13,7 @@ nav: home
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/profile.jpg"
-       alt="Ya-Han Chen"
+       alt="Ya-Han Chen 陳雅菡"
        style="width: 180px; border-radius: 6px;">
 </div>
 
