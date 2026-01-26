@@ -20,7 +20,7 @@ nav: cv
 - B.A. Political Science, Soochow University
 
 ## Publications
-- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.** *Soochow Journal of Political Science, 43*(1), 1-63. 
+- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Working Papers
 - **Temporal Spillovers in Mixed-Member Systems: Legislative Incumbency and Party-List Votes in Taiwan (2012–2024).** [R&R]
