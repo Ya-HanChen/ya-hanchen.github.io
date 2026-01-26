@@ -3,14 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <style>
-    body{
-      font-family:-apple-system,BlinkMacSystemFont,"Noto Sans TC","PingFang TC","Microsoft JhengHei",Arial,sans-serif;
-    }
-  </style>
+  <title>{{ site.title }}</title>
 </head>
 <body>
+  <header style="max-width:900px;margin:16px auto;text-align:center;">
+    <h1 style="margin:0;">{{ site.title }}</h1>
+  </header>
+
   {{ content }}
 </body>
 </html>
