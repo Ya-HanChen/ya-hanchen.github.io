@@ -40,4 +40,5 @@ nav: home
 
 ## Contact
 - Email: chen40620@gmail.com  
-- GitHub: https://ya-hanchen.github.io/
+- GitHub: [https://ya-hanchen.github.io/](https://ya-hanchen.github.io/)
+- ORCID: [0009-0003-9994-5038](https://orcid.org/0009-0003-9994-5038)
