@@ -16,8 +16,8 @@ nav: cv
 
 
 ## Education
-- M.A. Political Science, Soochow University
-- B.A. Political Science, Soochow University
+- M.A. Political Science, Soochow University, 2026-present
+- B.A. Political Science, Soochow University, 2025
 
 ## Publications
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
