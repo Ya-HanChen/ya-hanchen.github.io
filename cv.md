@@ -40,4 +40,4 @@ nav: cv
 - Fang-Yu Chen and Ya-Han Chen. **[Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.](https://www.9dashline.com/article/taiwans-pro-china-opposition-in-congress-pass-undemocratic-laws-that-trigger-mass-protest)** *9DASHLINE*, July 2024
 
 ## Download
-- [CV (PDF)](cv.pdf)
+- [CV (PDF)](https://www.dropbox.com/scl/fi/loauziz7xhwz5gl0ds73g/Han_CV.pdf?rlkey=sn5niwgzfewp2m8cjo60bnnhq&st=tdsu4pc8&dl=0)
