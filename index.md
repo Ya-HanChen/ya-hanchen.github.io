@@ -36,6 +36,7 @@ nav: home
 </div>
 
 ## Publications
+- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.** *Journal of Asian and African Studies*, Accepted.
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu (2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63.
 
 ## Contact
