@@ -18,6 +18,7 @@ nav: research
 
 
 ## Publications
+- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.** *Journal of Asian and African Studies* Accepted. 
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Working Papers
@@ -27,14 +28,14 @@ nav: research
 (corresponding author; with Yung-Ming Hsu)
 - **Voting Against the Giants: Legislative Performance and Minor Party Survival under Mixed-Member System.** [R&R]
 (corresponding author; with Yung-Ming Hsu)
-- **Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.** [R&R]
-(with Chia-Wei Chang, Po-Chun Wu, and Yung-Ming Hsu)
 - **One More Time One More Chance: Electoral Deposit Refunds and Politicians’ Decisions to Re-Contest Election.** [R&R]
 (with Zheng-Han Wang)
-- **Modeling Sequential Electoral Spillovers: Mediated Coattail Effects and Parallel Randomization in Taiwan.** [Under Review]
-(corresponding author; with Po-Chun Wu and Yung-Ming Hsu)
 
 ## Conference Papers
+- **Do Reserved Seats Mobilize Marginal Voters? Evidence from Indigenous Electoral Districts in Taiwan.** Paper presented at the 18th International Conference on Parliamentary Studies, Taipei, Soochow University, 6-7 June 2026.
+  (corresponding author; with Yung-Ming Hsu.)
+- **District Wins, Party Gains: Causal Evidence for Reverse Party Coattails in Mixed Electoral Systems, Taiwan, Japan, and South Korea (2008-2025).** Paper presented at the 18th International Conference on Parliamentary Studies, Taipei, Soochow University, 6-7 June 2026.
+  (corresponding author; with Po-Chun Wu, Yu-Chen Hsieh, and Yung-Ming Hsu.)
 - **When Words Shape Law: AI-Driven Causal Inference of Bill Passage in Taiwan’s Legislative Yuan.** Paper presented at the Japanese Society for Quantitative Political Science (JSQPS) 2026 Winter Meeting, Tokyo, Waseda University, 6-7 January 2026.
   (corresponding author; with Ya-Tsun Chieh, Po-Chun Wu, Yung-Ming Hsu.)
 - **Male’s Privilege on Economic Issues? A Survey Experiment on Candidates’ Gender and Economic Issue Ownership.** Paper presented at the 2025 Annual Conference of the Taiwanese Political Science Association, Taipei, National Chengchi University, 29-30, November 2025.
