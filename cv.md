@@ -20,21 +20,8 @@ nav: cv
 - B.A. Political Science, Soochow University, 2025
 
 ## Publications
-- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
-
-## Working Papers
-- **Temporal Spillovers in Mixed-Member Systems: Legislative Incumbency and Party-List Votes in Taiwan (2012–2024).** [R&R]
-(with Po-Chun Wu and Yung-Ming Hsu)
-- **When Partisanship Widens and Institutions Narrow: Fenno’s Paradox, Reverse Fenno, and Their Reversal in Taiwan’s Mixed-Member System.** [R&R]
-(corresponding author; with Yung-Ming Hsu)
-- **Voting Against the Giants: Legislative Performance and Minor Party Survival under Mixed-Member System.** [R&R]
-(corresponding author; with Yung-Ming Hsu)
-- **Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.** [R&R]
-(with Chia-Wei Chang, Po-Chun Wu, and Yung-Ming Hsu)
-- **One More Time One More Chance: Electoral Deposit Refunds and Politicians’ Decisions to Re-Contest Election.** [R&R]
-(with Zheng-Han Wang)
-- **Modeling Sequential Electoral Spillovers: Mediated Coattail Effects and Parallel Randomization in Taiwan.** [Under Review]
-(corresponding author; with Po-Chun Wu and Yung-Ming Hsu)
+- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.** *Journal of Asian and African Studies*, Accepted.
+- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu (2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Op-Eds and Media Contributions
 - Fang-Yu Chen and Ya-Han Chen. **[Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.](https://www.9dashline.com/article/taiwans-pro-china-opposition-in-congress-pass-undemocratic-laws-that-trigger-mass-protest)** *9DASHLINE*, July 2024
