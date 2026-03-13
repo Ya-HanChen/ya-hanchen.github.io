@@ -16,11 +16,11 @@ nav: cv
 
 
 ## Education
-- M.A. Political Science, Soochow University, 2026-present
+- M.A. Political Science, Soochow University, 2026
 - B.A. Political Science, Soochow University, 2025
 
 ## Publications
-- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.** *Journal of Asian and African Studies*, Accepted.
+- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **[Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.](https://journals.sagepub.com/doi/10.1177/00219096261424243)** *Journal of Asian and African Studies*.
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu (2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Op-Eds and Media Contributions
