@@ -22,19 +22,20 @@ nav: research
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Working Papers
+- **When Partisanship Widens and Institutions Narrow: Fenno’s Paradox, Reverse Fenno, and Their Reversal in Taiwan’s Mixed-Member System.** [Accepted]
+(corresponding author; with Yung-Ming Hsu)
+- **Voting Against the Giants: Legislative Performance and Minor Party Survival under Mixed-Member System.** [Accepted]
+(corresponding author; with Yung-Ming Hsu)
 - **Temporal Spillovers in Mixed-Member Systems: Legislative Incumbency and Party-List Votes in Taiwan (2012–2024).** [R&R]
 (with Po-Chun Wu and Yung-Ming Hsu)
-- **When Partisanship Widens and Institutions Narrow: Fenno’s Paradox, Reverse Fenno, and Their Reversal in Taiwan’s Mixed-Member System.** [R&R]
-(corresponding author; with Yung-Ming Hsu)
-- **Voting Against the Giants: Legislative Performance and Minor Party Survival under Mixed-Member System.** [R&R]
-(corresponding author; with Yung-Ming Hsu)
 - **One More Time One More Chance: Electoral Deposit Refunds and Politicians’ Decisions to Re-Contest Election.** [R&R]
 (with Zheng-Han Wang)
 
 ## Conference Papers
+- **When Words Shape Law: AI-Based Counterfactual Analysis of Taiwan’s Legislature.** Paper presented at the 2026 American Political Science Association (APSA) Annual Meeting, Vancouver, Boston, 3-6 September 2026. (with Po-Chun Wu, Ya-Tsun Chieh, and Yung-Ming Hsu.)
 - **Do Reserved Seats Mobilize Marginal Voters? Evidence from Indigenous Electoral Districts in Taiwan.** Paper presented at the 18th International Conference on Parliamentary Studies, Taipei, Soochow University, 6-7 June 2026.
   (corresponding author; with Yung-Ming Hsu.)
-- **District Wins, Party Gains: Causal Evidence for Reverse Party Coattails in Mixed Electoral Systems, Taiwan, Japan, and South Korea (2008-2025).** Paper presented at the 18th International Conference on Parliamentary Studies, Taipei, Soochow University, 6-7 June 2026.
+- **Reverse Party Coattails in Mixed Electoral Systems: A Comparative Regression Discontinuity Study of Taiwan, Japan, and South Korea.** Paper presented at the 18th International Conference on Parliamentary Studies, Taipei, Soochow University, 6-7 June 2026.
   (corresponding author; with Po-Chun Wu, Yu-Chen Hsieh, and Yung-Ming Hsu.)
 - **When Words Shape Law: AI-Driven Causal Inference of Bill Passage in Taiwan’s Legislative Yuan.** Paper presented at the Japanese Society for Quantitative Political Science (JSQPS) 2026 Winter Meeting, Tokyo, Waseda University, 6-7 January 2026.
   (corresponding author; with Ya-Tsun Chieh, Po-Chun Wu, Yung-Ming Hsu.)
