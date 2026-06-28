@@ -16,10 +16,12 @@ nav: cv
 
 
 ## Education
+- Visiting Student. Political Science, University of California, Berkeley, 2027
 - M.A. Political Science, Soochow University, 2026
 - B.A. Political Science, Soochow University, 2025
 
 ## Publications
+- Ya-Han Chen and Yung-Ming Hsu (2026). **[When Partisanship Widens and Institutions Narrow: Reversing Fenno’s Paradox in Taiwan’s Mixed-Member System.]()** *Taiwan Journal of Democracy*. 
 - Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **[Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.](https://journals.sagepub.com/doi/10.1177/00219096261424243)** *Journal of Asian and African Studies*.
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu (2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
@@ -27,4 +29,4 @@ nav: cv
 - Fang-Yu Chen and Ya-Han Chen. **[Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.](https://www.9dashline.com/article/taiwans-pro-china-opposition-in-congress-pass-undemocratic-laws-that-trigger-mass-protest)** *9DASHLINE*, July 2024
 
 ## Download
-- [CV (PDF)](https://www.dropbox.com/scl/fi/6suyx5pvgo4ml4ofdnwzp/Han_CV__copy_-2.pdf?rlkey=py9dvlukr3av1xppa04r47oan&dl=0)
+- [CV (PDF)](https://www.dropbox.com/scl/fi/d86u9hg3m06u7nfm4erep/Han_CV__0628.pdf?rlkey=zgmmkobf7tmkjq8cje2u1ryx0&st=ss7urgrv&dl=0)
