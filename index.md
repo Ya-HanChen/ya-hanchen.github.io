@@ -23,32 +23,6 @@ nav: home
 
     <div style="margin-top:24px;">
 
-        <a href="https://www.dropbox.com/scl/fi/d86u9hg3m06u7nfm4erep/Han_CV__0628.pdf?rlkey=zgmmkobf7tmkjq8cje2u1ryx0&dl=0"
-           style="display:block; margin:10px 0; color:#333; text-decoration:none;">
-            <i class="fa-regular fa-file-lines"></i>
-            CV
-        </a>
-
-        <a href="https://scholar.google.com/citations?user=GaNoAdEAAAAJ&hl=en"
-           target="_blank"
-           style="display:block; margin:10px 0; color:#333; text-decoration:none;">
-            <i class="fa-solid fa-graduation-cap"></i>
-            Google Scholar
-        </a>
-        
-        <a href="https://orcid.org/0009-0003-9994-5038"
-           target="_blank"
-           style="display:block; margin:12px 0; color:#333; text-decoration:none;">
-          <i class="fa-brands fa-orcid" style="width:24px;"></i>
-          ORCID
-        </a>
-
-        <a href="mailto:chen40620@gmail.com"
-           style="display:block; margin:10px 0; color:#333; text-decoration:none;">
-            <i class="fa-regular fa-envelope"></i>
-            Email
-        </a>
-
     </div>
 
 </div>
