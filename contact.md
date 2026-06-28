@@ -16,4 +16,3 @@ nav: contact
 
 
 - Email: chen40620@gmail.com
-- GitHub: https://ya-hanchen.github.io/
