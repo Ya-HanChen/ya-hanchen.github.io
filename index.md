@@ -23,19 +23,5 @@ nav: home
            style="width: 200px; border-radius: 6px; display:block; margin: 0 auto;">
     </div>
 
-    <!-- Right: About Me -->
-    <div style="flex: 1; min-width: 260px;">
-      <h2 style="margin-top: 0;">About Me</h2>
-      <p style="margin: 0; line-height: 1.7;">
-        I am a graduate student in Political Science.<br>
-        My research interests include causal inference, gender politics, and political behavior.
-      </p>
-    </div>
-
   </div>
 </div>
-
-## Publications
-- Ya-Han Chen and Yung-Ming Hsu (2026). **[When Partisanship Widens and Institutions Narrow: Reversing Fenno’s Paradox in Taiwan’s Mixed-Member System.]()** *Taiwan Journal of Democracy*. 
-- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **[Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.](https://journals.sagepub.com/doi/10.1177/00219096261424243)** *Journal of Asian and African Studies*.
-- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu (2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63.
