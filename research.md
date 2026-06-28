@@ -18,18 +18,17 @@ nav: research
 
 
 ## Publications
+- Ya-Han Chen and Yung-Ming Hsu (2026). **[When Partisanship Widens and Institutions Narrow: Reversing Fenno’s Paradox in Taiwan’s Mixed-Member System.]()** *Taiwan Journal of Democracy*. 
 - Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **[Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.](https://journals.sagepub.com/doi/10.1177/00219096261424243)** *Journal of Asian and African Studies*.
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Working Papers
-- **When Partisanship Widens and Institutions Narrow: Fenno’s Paradox, Reverse Fenno, and Their Reversal in Taiwan’s Mixed-Member System.** [Accepted]
-(corresponding author; with Yung-Ming Hsu)
+- **One More Time One More Chance: Electoral Deposit Refunds and Politicians’ Decisions to Re-Contest Election.** [Accepted]
+(with Zheng-Han Wang)
 - **Voting Against the Giants: Legislative Performance and Minor Party Survival under Mixed-Member System.** [Accepted]
 (corresponding author; with Yung-Ming Hsu)
 - **Temporal Spillovers in Mixed-Member Systems: Legislative Incumbency and Party-List Votes in Taiwan (2012–2024).** [R&R]
 (with Po-Chun Wu and Yung-Ming Hsu)
-- **One More Time One More Chance: Electoral Deposit Refunds and Politicians’ Decisions to Re-Contest Election.** [R&R]
-(with Zheng-Han Wang)
 
 ## Conference Papers
 - **When Words Shape Law: AI-Based Counterfactual Analysis of Taiwan’s Legislature.** Paper presented at the 2026 American Political Science Association (APSA) Annual Meeting, Vancouver, Boston, 3-6 September 2026. (with Po-Chun Wu, Ya-Tsun Chieh, and Yung-Ming Hsu.)
