@@ -16,12 +16,12 @@ nav: home
 <div style="max-width: 900px; margin: 30px auto;">
   <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 36px;">
 
-    <!-- Left: Profile photo -->
-    <div style="flex: 0 0 200px;">
-      <img src="/profile.jpg"
-           alt="Ya-Han Chen"
-           style="width: 200px; border-radius: 6px; display:block; margin: 0 auto;">
-    </div>
+    <!-- Profile Photo -->
+<div style="max-width: 900px; margin: 40px auto; text-align: center;">
+  <img src="/profile.jpg"
+       alt="Ya-Han Chen"
+       style="width: 280px; max-width: 100%; border-radius: 6px;">
+</div>
 
   </div>
 </div>
