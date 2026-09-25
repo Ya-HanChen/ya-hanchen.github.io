@@ -17,7 +17,7 @@ nav: home
 <!-- Left Column -->
 <div style="flex: 0 0 280px; text-align:center;">
 
-    <img src="/profile.jpg"
+    <img src="/IMG_0322.heic"
          alt="Ya-Han Chen"
          style="width:280px; max-width:100%; border-radius:8px;">
 
