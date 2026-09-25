@@ -18,7 +18,7 @@ nav: home
 <div style="display: flex; align-items: flex-start; gap: 32px; max-width: 900px; margin: 32px auto; flex-wrap: wrap;">
 
   <div style="flex: 0 0 280px; text-align: left;">
-    <img src="/IMG_0322.heic"
+    <img src="/IMG_0322.jpg"
          alt="Ya-Han Chen"
          style="display: block; width: 280px; max-width: 100%; border-radius: 8px;">
   </div>
