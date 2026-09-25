@@ -11,11 +11,6 @@ nav: cv
   </div>
 </nav>
 
-<p>
-  <a href="/Han_CV__0914.pdf" target="_blank" rel="noopener">
-  </a>
-</p>
-
 <iframe
   src="/Han_CV__0914.pdf"
   title="Ya-Han Chen CV"
