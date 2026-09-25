@@ -15,14 +15,21 @@ nav: home
 
 
 <!-- Left Column -->
-<div style="flex: 0 0 280px; text-align:center;">
+<div style="display: flex; align-items: flex-start; gap: 32px; max-width: 900px; margin: 32px auto; flex-wrap: wrap;">
 
+  <div style="flex: 0 0 280px; text-align: left;">
     <img src="/IMG_0322.heic"
          alt="Ya-Han Chen"
-         style="width:280px; max-width:100%; border-radius:8px;">
+         style="display: block; width: 280px; max-width: 100%; border-radius: 8px;">
+  </div>
 
-    <div style="margin-top:24px;">
-
-    </div>
+  <div style="flex: 1 1 300px;">
+    <p>
+      I am currently a visiting student at the University of California, Berkeley,
+      and a master’s student in the Department of Political Science at Soochow
+      University. My research interests include political representation,
+      minority politics, and causal inference.
+    </p>
+  </div>
 
 </div>
