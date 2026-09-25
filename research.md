@@ -10,7 +10,6 @@ nav: research
     <a href="/" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'home' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">Home</a>
     <a href="/cv" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'cv' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">CV</a>
     <a href="/research" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'research' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">Research</a>
-    <a href="/contact" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'contact' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">Contact</a>
   </div>
 </nav>
 
