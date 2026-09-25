@@ -7,7 +7,6 @@ nav: cv
 
 <p>
   <a href="/Han_CV__0914.pdf" target="_blank" rel="noopener">
-    Open or download my CV
   </a>
 </p>
 
