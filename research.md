@@ -20,11 +20,15 @@ nav: research
 ## Publications
 - Po-Chun Wu, Ya-Han Chen, and Yung-Ming Hsu (2026). **[Temporal Spillovers in Mixed-
 Member Systems: Legislative Incumbency and Party-list Voting in Taiwan.](https://doi.org/10.1017/S1468109926100395)** *Japanese Journal
-of Political Science* 1–24. [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U4FOPJ)
+of Political Science* 1–24. [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U4FOPJ)
+
 - Zheng-Han Wang and Ya-Han Chen (2026). **[One More Time One More Chance: Electoral
-Deposit Refunds and Politicians’ Decisions to Re-Contest Election.](https://doi.org/10.1017/S1468109926100371)** *Japanese Journal of Political Science* 1-17. [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SEFZJR)
-- Ya-Han Chen and Yung-Ming Hsu (2026). **[When Partisanship Widens and Institutions Narrow: Reversing Fenno’s Paradox in Taiwan’s Mixed-Member System.]()** *Taiwan Journal of Democracy*. 
+Deposit Refunds and Politicians’ Decisions to Re-Contest Election.](https://doi.org/10.1017/S1468109926100371)** *Japanese Journal of Political Science* 1-17. [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SEFZJR)
+
+- Ya-Han Chen and Yung-Ming Hsu (2026). **[When Partisanship Widens and Institutions Narrow: Reversing Fenno’s Paradox in Taiwan’s Mixed-Member System.]()** *Taiwan Journal of Democracy*.
+
 - Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **[Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.](https://journals.sagepub.com/doi/10.1177/00219096261424243)** *Journal of Asian and African Studies*.
+
 - Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu(2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
 
 ## Working Papers
