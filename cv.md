@@ -3,30 +3,19 @@ layout: default
 nav: cv
 ---
 
+<h1>Curriculum Vitae</h1>
 
-# Curriculum Vitae
-<nav style="max-width: 900px; margin: 20px auto 10px; padding: 10px 0; border-bottom: 1px solid #e5e5e5;">
-  <div style="text-align: right; padding-right: 40px;">
-    <a href="/" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'home' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">Home</a>
-    <a href="/cv" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'cv' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">CV</a>
-    <a href="/research" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'research' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">Research</a>
-    <a href="/contact" style="margin: 0 14px; color:#1a1a1a; text-decoration: none; border-bottom: {% if page.nav == 'contact' %}2px solid #1a1a1a{% else %}none{% endif %}; padding-bottom: 2px;">Contact</a>
-  </div>
-</nav>
+<p>
+  <a href="/Ya-Han_Chen_CV.pdf" target="_blank" rel="noopener">
+    Open or download my CV
+  </a>
+</p>
 
-
-## Education
-- Visiting Student. Political Science, University of California, Berkeley, 2027
-- M.A. Political Science, Soochow University, 2026
-- B.A. Political Science, Soochow University, 2025
-
-## Publications
-- Ya-Han Chen and Yung-Ming Hsu (2026). **[When Partisanship Widens and Institutions Narrow: Reversing Fenno’s Paradox in Taiwan’s Mixed-Member System.]()** *Taiwan Journal of Democracy*. 
-- Po-Chun Wu, Ya-Han Chen, Chia-Wei Chang, and Yung-Ming Hsu (2026). **[Reverse Coattail vs. Strategic Reversal: The Effect of District Legislators on Presidential Voting in Taiwan.](https://journals.sagepub.com/doi/10.1177/00219096261424243)** *Journal of Asian and African Studies*.
-- Chia-Wei Chang, Ya-Han Chen, and Yung-Ming Hsu (2025). **[Satisfaction of Legislative Party Performances and Modeling of Retrospective Voting for Party-list Votes.](https://scups.ppo.scu.edu.tw/upload/f20251002094914ic9vj1.pdf)** *Soochow Journal of Political Science, 43*(1), 1-63. 
-
-## Op-Eds and Media Contributions
-- Fang-Yu Chen and Ya-Han Chen. **[Taiwan’s Pro-China Opposition in Congress Pass Undemocratic Laws that Trigger Mass Protest.](https://www.9dashline.com/article/taiwans-pro-china-opposition-in-congress-pass-undemocratic-laws-that-trigger-mass-protest)** *9DASHLINE*, July 2024
+<iframe
+  src="/Ya-Han_Chen_CV.pdf"
+  title="Ya-Han Chen CV"
+  style="width: 100%; height: 850px; border: 1px solid #ddd;">
+</iframe>
 
 ## Download
 - [CV (PDF)](https://www.dropbox.com/scl/fi/d86u9hg3m06u7nfm4erep/Han_CV__0628.pdf?rlkey=zgmmkobf7tmkjq8cje2u1ryx0&st=ss7urgrv&dl=0)
