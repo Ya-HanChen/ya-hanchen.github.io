@@ -29,12 +29,14 @@ nav: home
       and a master’s student in the Department of Political Science at Soochow
       University. My research interests include political representation,
       minority politics, and causal inference.
-
-      - Email: chen40620@gmail.com , yhc0116@berkeley.edu
-      - GitHub: [https://ya-hanchen.github.io/](https://github.com/Ya-HanChen)
-      - ORCID: [0009-0003-9994-5038](https://orcid.org/0009-0003-9994-5038)
-      - X: [@HelenCh57986967](https://x.com/HelenCh57986967)
     </p>
-  </div>
-
+    <ul style="padding-left: 20px; line-height: 1.8;">
+    <li>Email:
+      <a href="mailto:chen40620@gmail.com">chen40620@gmail.com</a>,
+      <a href="mailto:yhc0116@berkeley.edu">yhc0116@berkeley.edu</a>
+    </li>
+    <li>GitHub: <a href="https://github.com/Ya-HanChen">Ya-HanChen</a></li>
+    <li>ORCID: <a href="https://orcid.org/0009-0003-9994-5038">0009-0003-9994-5038</a></li>
+    <li>X: <a href="https://x.com/HelenCh57986967">@HelenCh57986967</a></li>
+  </ul>
 </div>
